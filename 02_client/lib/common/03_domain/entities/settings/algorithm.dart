@@ -1,0 +1,4 @@
+enum Algorithm {
+  kNN,
+  wKNN,
+}

@@ -1,0 +1,21 @@
+type UPDATE_ACCESS_POINTS_FAILED = {
+  type: "UPDATE_ACCESS_POINTS_FAILED";
+  data: string;
+}
+
+type CREATE_CALIBRATION_FINGERPRINT_FAILURE = {
+  type: "CREATE_CALIBRATION_FINGERPRINT_FAILURE";
+  data: string;
+}
+
+type UPDATE_RADIO_MAP_FAILURE = {
+  type: "UPDATE_RADIO_MAP_FAILURE";
+  data: string;
+}
+
+//maybe some other errors as well??
+
+type CalibrationFingerprintError = NON_READABLE 
+  | UPDATE_ACCESS_POINTS_FAILED 
+  | CREATE_CALIBRATION_FINGERPRINT_FAILURE 
+  | UPDATE_RADIO_MAP_FAILURE;
