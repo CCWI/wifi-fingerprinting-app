@@ -1,6 +1,6 @@
 # Wifi Fingerprinting
 
-Wifi Fingerprinting ist eine mobile Applikation zur Positionsbestimmung von Personen in Gebäuden anhand der Empfangsstärken von verschiedenen im Gebäude stationierten WiFi Acces Points (AP). 
+Wifi Fingerprinting ist eine mobile Applikation zur Positionsbestimmung von Personen in Gebäuden anhand der Empfangsstärken von verschiedenen im Gebäude stationierten WiFi Access Points (AP). 
 
 Das Projekt wurde im Rahmen einer studentischen Arbeit mit Bezug zum Forschungsprojekt NuData Campus am Competence Center Wirtschaftsinformatik (CCWI) der Hochschule München (HM) umgesetzt, und der resultierende Prototyp in einem Gebäude der Hochschule getestet.
 
